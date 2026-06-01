@@ -1,0 +1,6 @@
+{
+  "name": "ViewTube",
+  "description": "A modern, highly-polished YouTube-inspired video streaming client featuring a trending feed, global search, subscriptions, local playlists and watch history, full dark mode support, and interactive vertical Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
